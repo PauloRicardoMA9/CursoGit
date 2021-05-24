@@ -1,6 +1,6 @@
 # Github
 
-// Configurar nome
+- Configurar nome
 git config --global user.name "Paulo Ricardo"
 
 // Configurar email
