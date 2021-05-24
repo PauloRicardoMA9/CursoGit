@@ -98,3 +98,10 @@
   - git checkout <Nome do Branch>
 - Apagar um branch
   - git branch -D <Nome do Branch>
+
+
+#Merge
+- git merge <Nome do Branch>
+
+#Rebase
+- git rebase <Nome do Branch>
