@@ -87,3 +87,14 @@
 - Clonar repositorio do github
   - 1° Pegar o SSH do repositorio pelo github
     - git clone <SSH> <nome pro repositorio local>
+
+ 
+- Branch
+  - Criar
+    - git checkout -b <Nome do Branch>
+  - Mostrar quais branchs existem
+    - git branch
+  - Navegar entre os branchs
+    - git checkout <Nome do Branch>
+  - Apagar um branch
+    git branch -D <Nome do Branch>
