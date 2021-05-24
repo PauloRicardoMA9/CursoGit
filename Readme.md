@@ -9,10 +9,9 @@
     - git config --global core.editor vim
 
 
-
-// Criar Repositório
-// Criar uma pasta para o projeto
-mkdir <NomeDoProjeto>
+- Criar Repositório
+  1 Criar uma pasta para o projeto
+    - mkdir <NomeDoProjeto>
 
 // Entrar na pasta
 cd <Nome ou DiretorioDoProjeto>
