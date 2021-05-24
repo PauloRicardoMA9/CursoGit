@@ -87,4 +87,3 @@
 - Clonar repositorio do github
   - 1° Pegar o SSH do repositorio pelo github
     - git clone <SSH> <nome pro repositorio local>
-    - ex: git clone git@github.com:PauloRicardoMA9/CursoGit.git CursoGit
