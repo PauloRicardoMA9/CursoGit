@@ -1,13 +1,12 @@
 # Github
 
-- Configurar nome
-git config --global user.name "Paulo Ricardo"
-
-// Configurar email
-git config --global user.email "paulo.silva@ma9.com.br"
-
-// Configurar editor principal
-git config --global core.editor vim
+- Configurações
+  - Configurar nome
+    - git config --global user.name "Paulo Ricardo"
+  - Configurar email
+    - git config --global user.email "paulo.silva@ma9.com.br"
+  - Configurar editor principal
+    - git config --global core.editor vim
 
 
 
