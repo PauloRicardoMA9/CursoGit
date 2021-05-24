@@ -82,3 +82,9 @@
     - git push -u origin master
   - Visualizar o repositorio
     - git remote -v
+
+  
+- Clonar repositorio do github
+  - 1° Pegar o SSH do repositorio pelo github
+    - g clone <SSH> <nome pro repositorio local>
+    - ex: git clone git@github.com:PauloRicardoMA9/CursoGit.git CursoGit
