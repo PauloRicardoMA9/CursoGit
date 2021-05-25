@@ -150,3 +150,7 @@
 
 # Remover tags e branches remotos
 - git push origin :<tag ou branch>
+
+ 
+# Pull
+- git pull origin master --rebase
