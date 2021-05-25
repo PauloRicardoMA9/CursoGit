@@ -100,15 +100,15 @@
   - git branch -D <Nome do Branch>
 
 
-#Merge
+# Merge
 - git merge <Nome do Branch>
 
 
-#Rebase
+# Rebase
 - git rebase <Nome do Branch>
 
 
-#Ignore
+# Ignore
 - Serve para não commitar arquivos
 - É possível não só especificar um arquivo específico, como também arquivos com determinadas extensões
 - Cria um arquivo .gitignore e dentro dele escreve *<extensão desejada> ex: *.json
@@ -116,7 +116,7 @@
 - Para ignorar um arquivo específico basta colocar o nome do arquivo dentro do .gitignore
 
 
-#Stash
+# Stash
 - Responsável por guardar modificações que ainda não foram commitadas em um arquivo em que eu posso chamar quando achar necessário
   - git stash
 - Para aplicat as mudanças que estavam salvas
@@ -127,12 +127,12 @@
   - git stash clear
 
 
-#Alias
+# Alias
 - git config --global alias.<comando que quer> <comando que deseja que seja feito>
 - ex: git config --global alias.s status
 
 
-#Tags
+# Tags
 - Criar tag
   - git tag -a <versão> -m "<mensagem>"
   - ex: git tag -a 1.0.0 -m "Readme Finalizado"
@@ -140,7 +140,7 @@
   - git tag
 
 
-#Revert
+# Revert
 - Abre o log
   - git log
 - Seleciona para qual commit deseja voltar
